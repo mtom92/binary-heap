@@ -27,3 +27,6 @@ heap.insert(12);
 heap.insert(55);
 heap.insert(95);
 heap.insert(125);
+heap.insert(1009);
+heap.insert(2938);
+heap.insert(6371);
